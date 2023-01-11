@@ -45,7 +45,7 @@ body{
 }
 /** GENERALE STYLE **/
 .container {
-    width : var(--container-width-lg);
+    width : var(--container-waidth-lg);
     margin: 0 auto; 
    }
 
